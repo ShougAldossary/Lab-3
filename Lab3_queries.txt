@@ -1,0 +1,24 @@
+?- father(mubarak, shoug). 
+true.
+
+?- father(mubarak, nawaf). 
+false.
+
+?- mother(hessa, saad). 
+true.
+
+?- mother(hessa, nawaf). 
+false.
+
+?- sister(shoug, saad). 
+true.
+
+?- sister(farah, fahad). 
+true.
+
+?- brother(saad, shoug). 
+true.
+
+?- brother(fahad, joud). 
+true.
+ 
